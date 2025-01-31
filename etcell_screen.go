@@ -7,7 +7,7 @@ import (
 	"image/color"
 	"sync"
 
-	"github.com/ezrec/tcell_ebiten/font"
+	"github.com/f8f8f8ff/tcell_ebiten/font"
 
 	"github.com/gdamore/tcell/v2"
 	"github.com/hajimehoshi/ebiten/v2"

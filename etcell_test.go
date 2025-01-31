@@ -5,7 +5,7 @@ package tcell_ebiten
 import (
 	"testing"
 
-	"github.com/ezrec/tcell_ebiten/font"
+	"github.com/f8f8f8ff/tcell_ebiten/font"
 
 	"golang.org/x/image/font/gofont/gomono"
 	"golang.org/x/image/font/gofont/gomonobold"
