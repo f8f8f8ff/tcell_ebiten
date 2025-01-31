@@ -1,8 +1,9 @@
-module github.com/ezrec/tcell_ebiten
+module github.com/f8f8f8ff/tcell_ebiten
 
 go 1.23.1
 
 require (
+	github.com/ezrec/tcell_ebiten v1.0.1
 	github.com/gdamore/tcell/v2 v2.8.1
 	github.com/go-text/typesetting v0.2.1
 	github.com/hajimehoshi/ebiten/v2 v2.8.6
